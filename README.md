@@ -18,3 +18,4 @@ subsequent sections of this report delve into these critical areas, aiming to un
 forward.
 
 *Visit link to the project's report  >>>>   https://github.com/DDeji97/Loan_Products_Analysis/blob/main/Reports/QC_BI_Report.pdf
+[![Circle CI](https://circleci.com/gh/sameersbn/docker-mysql.svg?style=svg)](https://circleci.com/gh/sameersbn/docker-mysql) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/mysql/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/mysql)
